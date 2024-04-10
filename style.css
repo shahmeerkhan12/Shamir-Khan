@@ -1,0 +1,42 @@
+h1{
+
+	background-color: white;
+	color: black;
+	align-content: center;
+	padding: 30px;
+	margin-top: 0%;
+	color: black;
+}
+nav{
+	display:table-row;
+	gap: 10px;
+}
+p{
+	color: black;
+	size: 30px;
+	padding: 20px;
+}
+h2{
+	background-color: white;
+	color: black;
+	align-content: center;
+	padding: 10px;
+	margin: 0px;
+	color: black;
+}
+
+body{
+	align-content: center ;
+	line-height: 1.6em;
+}
+.container{
+	background-color: aqua;
+	align-content: center;
+	width: 80%;
+	margin: auto;
+}
+
+.categories{
+	size: 20px;
+	padding: 20px;
+}
